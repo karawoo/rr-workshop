@@ -26,7 +26,7 @@ output:
 
 
 ```
-## ── Attaching packages ─────────────── tidyverse 1.2.1 ──
+## ── Attaching packages ───────── tidyverse 1.2.1 ──
 ```
 
 ```
@@ -37,7 +37,7 @@ output:
 ```
 
 ```
-## ── Conflicts ────────────────── tidyverse_conflicts() ──
+## ── Conflicts ──────────── tidyverse_conflicts() ──
 ## ✖ dplyr::filter() masks stats::filter()
 ## ✖ dplyr::lag()    masks stats::lag()
 ```
@@ -78,3 +78,4 @@ git init
 
 Here is some more text that I am adding.
 
+One final line of text.
